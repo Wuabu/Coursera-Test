@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Wuabu's Page
 
-You can use the [editor on GitHub](https://github.com/Wuabu/Coursera-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is going to be my first website and I am very happy to build my first website today.
+### Site Attraction
+Movies Games Graphic Designing Photoshot
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
